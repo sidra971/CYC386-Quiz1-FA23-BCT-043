@@ -1,0 +1,3 @@
+Validate and sanitize all user inputs.
+Use strong authentication and access controls.
+Never hardcode passwords or API keys in source code.
